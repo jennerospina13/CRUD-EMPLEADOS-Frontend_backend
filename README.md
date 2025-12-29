@@ -4,7 +4,7 @@ Creacion de repositorios Forntend y Backend conectado a base de datos MongoDB "e
 ![Estado](https://img.shields.io/badge/STATUS-Completado-green)
 ![Version](https://img.shields.io/badge/VERSION-1.0-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-orange)
-![Visual Studio](https://img.shields.io/badge/_-you_Visual_Studio)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-you_Visual_Studio)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 Comparto mi proyecto **Codificación de módulos del software**, un desafío de programación donde se realiza la conexion entre un programa web Frontend y Backend, y la base de datos MongoDB.
